@@ -17,12 +17,10 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-facebook: "#"
+facebook: "https://www.facebook.com/nischay.jain.12/"
 twitter: "#"
 linkedin: "#"
-github: "#"
-researchgate: "#"
-orcid: "#"
+github: "https://github.com/nischay13may"
 
 highlighter: rouge
 markdown: kramdown
